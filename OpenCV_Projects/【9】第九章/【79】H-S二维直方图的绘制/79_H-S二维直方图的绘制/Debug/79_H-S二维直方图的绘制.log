@@ -1,0 +1,7 @@
+﻿  79_H-S-Histogram.cpp
+c:\develop\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  79_H-S二维直方图的绘制.vcxproj -> G:\develop\OpencvProjects\【9】第九章\【79】H-S二维直方图的绘制\Debug\79_H-S二维直方图的绘制.exe
+  79_H-S二维直方图的绘制.vcxproj -> G:\develop\OpencvProjects\【9】第九章\【79】H-S二维直方图的绘制\Debug\79_H-S二维直方图的绘制.pdb (Full PDB)

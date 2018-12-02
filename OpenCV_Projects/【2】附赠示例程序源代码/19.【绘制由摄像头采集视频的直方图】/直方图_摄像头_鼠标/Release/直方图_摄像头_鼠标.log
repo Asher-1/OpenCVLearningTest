@@ -1,0 +1,10 @@
+﻿  19_VideoHistogram.cpp
+C:\develop\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\develop\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\develop\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\develop\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  All 94 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  直方图_摄像头_鼠标.vcxproj -> G:\develop\OpencvProjects\【2】附赠示例程序源代码\19.【绘制由摄像头采集视频的直方图】\Release\直方图_摄像头_鼠标.exe
+  直方图_摄像头_鼠标.vcxproj -> G:\develop\OpencvProjects\【2】附赠示例程序源代码\19.【绘制由摄像头采集视频的直方图】\Release\直方图_摄像头_鼠标.pdb (Full PDB)

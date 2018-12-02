@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Platforms\Win32\PlatformToolsets\v140\ImportBefore\Intel.Libs.MKL.v140.targets(42,24): error MSB4086: 尝试在条件“'$(SuiteVer)' == '[Intel Compiler is not installed]' AND (($(MKLMajorVersion) == 11 AND $(MKLMinorVersion) >= 3) OR $(MKLMajorVersion) >= 17)”中对计算结果为“”而不是数字的“$(MKLMajorVersion)”进行数值比较。

@@ -1,0 +1,9 @@
+﻿  72_convexHull2.cpp
+c:\develop\opencv\build\include\opencv2\core\mat.hpp(1964): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  All 171 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  72_寻找和绘制物体的凸包.vcxproj -> G:\develop\OpencvProjects\【8】第八章\【72】寻找和绘制物体的凸包\Release\72_寻找和绘制物体的凸包.exe

@@ -1,0 +1,12 @@
+﻿  openCV_demo1.cpp
+C:\develop\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\develop\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\develop\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\develop\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+openCV_demo1.cpp(164): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+openCV_demo1.cpp(165): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+openCV_demo1.cpp(166): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+openCV_demo1.cpp(224): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+openCV_demo1.cpp(225): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+openCV_demo1.cpp(226): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+LINK : fatal error LNK1104: 无法打开文件“C:\Users\A\Documents\Visual Studio 2015\Projects\openCV_demo1\Release\openCV_demo1.exe”

@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|G:\develop\OpencvProjects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\|

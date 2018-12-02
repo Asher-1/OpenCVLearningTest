@@ -1,0 +1,7 @@
+﻿  19_UseMat.cpp
+c:\develop\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  19_基础图像容器Mat.vcxproj -> G:\develop\OpencvProjects\【4】第四章\【19】基础图像容器Mat\Debug\19_基础图像容器Mat.exe
+  19_基础图像容器Mat.vcxproj -> G:\develop\OpencvProjects\【4】第四章\【19】基础图像容器Mat\Debug\19_基础图像容器Mat.pdb (Full PDB)

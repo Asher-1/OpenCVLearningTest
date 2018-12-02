@@ -1,0 +1,33 @@
+﻿  14_video_homography.cpp
+c:\develop\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(136): error C2065: “BriefDescriptorExtractor”: 未声明的标识符
+g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(136): error C2146: 语法错误: 缺少“;”(在标识符“brief”的前面)
+g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(136): error C3861: “brief”: 找不到标识符
+g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(164): error C2065: “GridAdaptedFeatureDetector”: 未声明的标识符
+g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(164): error C2146: 语法错误: 缺少“;”(在标识符“detector”的前面)
+g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(164): error C2259: “cv::FastFeatureDetector”: 不能实例化抽象类
+  g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(164): note: 由于下列成员:
+  g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(164): note: “void cv::FastFeatureDetector::setThreshold(int)”: 是抽象的
+  c:\develop\opencv\build\include\opencv2\features2d.hpp(401): note: 参见“cv::FastFeatureDetector::setThreshold”的声明
+  g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(164): note: “int cv::FastFeatureDetector::getThreshold(void) const”: 是抽象的
+  c:\develop\opencv\build\include\opencv2\features2d.hpp(402): note: 参见“cv::FastFeatureDetector::getThreshold”的声明
+  g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(164): note: “void cv::FastFeatureDetector::setNonmaxSuppression(bool)”: 是抽象的
+  c:\develop\opencv\build\include\opencv2\features2d.hpp(404): note: 参见“cv::FastFeatureDetector::setNonmaxSuppression”的声明
+  g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(164): note: “bool cv::FastFeatureDetector::getNonmaxSuppression(void) const”: 是抽象的
+  c:\develop\opencv\build\include\opencv2\features2d.hpp(405): note: 参见“cv::FastFeatureDetector::getNonmaxSuppression”的声明
+  g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(164): note: “void cv::FastFeatureDetector::setType(int)”: 是抽象的
+  c:\develop\opencv\build\include\opencv2\features2d.hpp(407): note: 参见“cv::FastFeatureDetector::setType”的声明
+  g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(164): note: “int cv::FastFeatureDetector::getType(void) const”: 是抽象的
+  c:\develop\opencv\build\include\opencv2\features2d.hpp(408): note: 参见“cv::FastFeatureDetector::getType”的声明
+g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(164): error C2661: “cv::FastFeatureDetector::FastFeatureDetector”: 没有重载函数接受 2 个参数
+g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(164): error C3861: “detector”: 找不到标识符
+g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(175): error C2065: “detector”: 未声明的标识符
+g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(175): error C2228: “.detect”的左边必须有类/结构/联合
+  g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(175): note: 类型是“unknown-type”
+g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(177): error C2065: “brief”: 未声明的标识符
+g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(177): error C2228: “.compute”的左边必须有类/结构/联合
+  g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(177): note: 类型是“unknown-type”
+g:\develop\opencvprojects\【2】附赠示例程序源代码\15.【对视频进行快速角点检测】video_homography\video_homography快速角点检测\14_video_homography.cpp(185): error C3861: “windowedMatchingMask”: 找不到标识符

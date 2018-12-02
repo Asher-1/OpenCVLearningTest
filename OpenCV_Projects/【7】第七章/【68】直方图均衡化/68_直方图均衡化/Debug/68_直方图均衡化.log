@@ -1,0 +1,7 @@
+﻿  68_equalizeHist.cpp
+c:\develop\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\develop\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  68_直方图均衡化.vcxproj -> G:\develop\OpencvProjects\【7】第七章\【68】直方图均衡化\Debug\68_直方图均衡化.exe
+  68_直方图均衡化.vcxproj -> G:\develop\OpencvProjects\【7】第七章\【68】直方图均衡化\Debug\68_直方图均衡化.pdb (Full PDB)
